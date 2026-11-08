@@ -59,6 +59,6 @@ Who were the best offensive players in Mets history, how rare are elite seasons,
 ## Author
 
 Adonis Flores | Lehman College, Data Analytics
-[LinkedIn link]
+
 
 Licensed under MIT.
